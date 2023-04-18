@@ -252,12 +252,7 @@ google-services.json
 *.hprof
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
+.vscode
 
 # Local History for Visual Studio Code
 .history/
@@ -269,5 +264,6 @@ google-services.json
 # Ignore all local history of files
 .history
 .ionide
+.bundle
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,reactnative
