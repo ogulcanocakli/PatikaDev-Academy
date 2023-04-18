@@ -29,7 +29,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "eceff1",
-    margin: 10,
   },
   title: {
     color: "#8b008b",
